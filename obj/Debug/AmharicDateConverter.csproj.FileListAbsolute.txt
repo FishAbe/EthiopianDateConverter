@@ -1,4 +1,4 @@
-c:\users\fish-pc\documents\visual studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\bin\Debug\AmharicDateConverter.dll
-c:\users\fish-pc\documents\visual studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\bin\Debug\AmharicDateConverter.pdb
-c:\users\fish-pc\documents\visual studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\obj\Debug\AmharicDateConverter.dll
-c:\users\fish-pc\documents\visual studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\obj\Debug\AmharicDateConverter.pdb
+C:\Users\FISH-PC\Documents\Visual Studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\bin\Debug\AmharicDateConverter.dll
+C:\Users\FISH-PC\Documents\Visual Studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\bin\Debug\AmharicDateConverter.pdb
+C:\Users\FISH-PC\Documents\Visual Studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\obj\Debug\AmharicDateConverter.dll
+C:\Users\FISH-PC\Documents\Visual Studio 2013\Projects\AmharicDateConverter\AmharicDateConverter\obj\Debug\AmharicDateConverter.pdb
